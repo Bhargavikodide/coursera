@@ -5,7 +5,7 @@ h1 {
   margin-bottom: 30px;
 }
 .row {
-  width: 100%;
+  width: 130%;
 }
 .box {
   position:relative;
@@ -13,14 +13,14 @@ border: 1px solid black;
   background-color: pink;
  margin:10px;
   width: 90%;
-  height: 130px;
+  height: 150px;
   margin-right:auto;
   margin-left: auto;
   font-family: Helvetica;
   color: black;
   padding-top:40px;
   padding-left: 20px;
-  font-size: 0.7em;
+  font-size: 0.9em;
  
 }
 .box .inbox{
